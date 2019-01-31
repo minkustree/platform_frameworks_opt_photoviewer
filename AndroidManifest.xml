@@ -19,8 +19,10 @@
     package="com.android.ex.photo"
     android:versionCode="1">
 
+    <!-- Handled in gradle.build now. Keep here for easier merge conflict resolution.
     <uses-sdk
         android:targetSdkVersion="21" android:minSdkVersion="14"/>
+    -->
 
     <application />
 </manifest>
